@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    12,
+    61
+  ],
+  "Name": "Excess Coil",
+  "Description": "Activating a Skill grants a SHIELD for 25% of Max Health. Cannot stack with itself. Lasts 15s.",
+  "Location": "Can be found in N'Erud - Robot Hanger event."
+}

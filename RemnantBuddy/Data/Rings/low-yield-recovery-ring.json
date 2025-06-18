@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    4,
+    129
+  ],
+  "Name": "Low Yield Recovery Ring",
+  "Description": "Killing an enemy regenerates 6% Max Health over 6s. Additional kills increase duration by 6s. Max 30s.",
+  "Location": "Can be found in N'Erud - Astropath's Respíte."
+}

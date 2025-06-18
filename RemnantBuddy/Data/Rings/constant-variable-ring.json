@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    75,
+    144
+  ],
+  "Name": "Constant Variable Ring",
+  "Description": "Increases Ranged damage up to 20% based on current Weapon's Overheat value.",
+  "Location": "Can be found in N'Erud - Tower of the Unseen."
+}

@@ -1,0 +1,11 @@
+{
+  "Category": 0,
+  "Tags": [
+    59,
+    62,
+    77
+  ],
+  "Name": "Ring of the Damned",
+  "Description": "Increases All Damage by 0.4% for every 1% of Grey Health. Increases Critical Chance by 5% if  at least 50% of Max Health is Grey.",
+  "Location": "Can be found in Losomn, The Great Sewers."
+}

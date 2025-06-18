@@ -1,0 +1,9 @@
+{
+  "Category": 0,
+  "Tags": [
+    132
+  ],
+  "Name": "Black Cat Band",
+  "Description": "When taking fatal damage, instead of dying, the wearer's Health will drop to 1, and Movement Speed will increase by 25% for 10s. 2m cooldown.",
+  "Location": "Can be bought from Reggie after dying 15 times."
+}

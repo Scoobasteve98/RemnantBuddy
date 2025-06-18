@@ -1,0 +1,11 @@
+{
+  "Category": 0,
+  "Tags": [
+    4,
+    78,
+    109
+  ],
+  "Name": "Propulsion Loop",
+  "Description": "After killing an enemy, increases Movement Speed by 5% and Consumable Use Speed by 10% for 10s. Stacks 3x.",
+  "Location": "Can be found in N'Erud."
+}

@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    9,
+    70
+  ],
+  "Name": "Stockpile Charger",
+  "Description": "After picking up ammo, increases the damage of that Ammo Type by 15% for 20s.",
+  "Location": "Can be found in  Losomn as a random drop."
+}

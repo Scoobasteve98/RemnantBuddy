@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    70,
+    90
+  ],
+  "Name": "Force Multiplier",
+  "Description": "Overcharging Charge Weapons grants 1.05x Weapon Damage Per 0.5s while Charge is held beyond Perfect Release Window. Max 1.3x.",
+  "Location": "Can be crafted at Spark, you will need the following Materials: x1 Decorum Cipher and x25 Alien Alloy"
+}

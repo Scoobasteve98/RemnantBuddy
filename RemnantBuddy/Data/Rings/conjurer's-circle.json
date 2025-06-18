@@ -1,0 +1,12 @@
+{
+  "Category": 0,
+  "Tags": [
+    159,
+    29,
+    157,
+    62
+  ],
+  "Name": "Conjurer's Circle",
+  "Description": "When wearer's Summon enters the battlefield, conjure a 5m Summoning Circle. Allies in the Summoning Circle have their Stagger Level reduced by 1 and generate 5 Grey Health per second. Lasts 10s.Can only happen once every 10s after expiring.",
+  "Location": "Exclusive to The Forgotten Kingdom DLC."
+}

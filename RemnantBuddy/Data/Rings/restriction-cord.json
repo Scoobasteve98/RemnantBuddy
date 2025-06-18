@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    64,
+    69
+  ],
+  "Name": "Restriction Cord",
+  "Description": "Restricts the wearer from Healing above 50% of their Max Health and reduces all incoming damage by 15%.",
+  "Location": "Can be bought from Bedel of The Vaunnt in Yaesha."
+}

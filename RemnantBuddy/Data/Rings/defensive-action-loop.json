@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    69,
+    84
+  ],
+  "Name": "Defensive Action Loop",
+  "Description": "While reloading, and for 3s after reload completes, incoming damage is reduced by 10%.",
+  "Location": "Can be found in N'Erud - Astropath's Respíte. Random Drop."
+}

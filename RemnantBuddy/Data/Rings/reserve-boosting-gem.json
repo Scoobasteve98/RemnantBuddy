@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    129,
+    64
+  ],
+  "Name": "Reserve Boosting Gem",
+  "Description": "Increases Health Regeneration by 0.5 per second. 1s after going below 50% Health, increases regeneration value to 2.5 per second until 50% Health is reached.",
+  "Location": "Can be found in N'Erud - The Hatchery.;Can be found in N'Erud as a random drop, probably more in Putrid Domaine."
+}

@@ -1,0 +1,11 @@
+{
+  "Category": 0,
+  "Tags": [
+    19,
+    18,
+    67
+  ],
+  "Name": "Guardian's Ring",
+  "Description": "Adds 1 Stack of BULWARK when within 15m of an enemy. Increases to 2 Stacks for 10s after taking Melee damage.",
+  "Location": "Can be found in Yaesha - The Nameless Nest."
+}

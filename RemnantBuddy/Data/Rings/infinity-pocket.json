@@ -1,0 +1,9 @@
+{
+  "Category": 0,
+  "Tags": [
+    84
+  ],
+  "Name": "Infinity Pocket",
+  "Description": "Reloading an Empty Magazine refills 10% of the stowed weapon's Max Ammo. When stowed weapon is full, the refill amount applies to the primary weapon instead.",
+  "Location": "A random world drop in N'Erud. (World drops are completely random and can appear anywhere in the world or its dungeons)"
+}

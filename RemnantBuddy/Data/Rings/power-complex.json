@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    20,
+    77
+  ],
+  "Name": "Power Complex",
+  "Description": "Increases All Damage dealt by 1% per second to a maximum of 15%. Dodging resets Power Complex to 0%",
+  "Location": "Can be found in N'Erud as a random drop.;Exclusive Ring for The Awakened King DLC."
+}

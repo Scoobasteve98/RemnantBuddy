@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    16,
+    67
+  ],
+  "Name": "Hardcore Metal Band",
+  "Description": "Taking damage adds 1 stack of BULWARK which individually falls of after 10s. Max 3 stacks.",
+  "Location": "Can be found in N'Erud as a random drop."
+}

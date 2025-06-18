@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    145,
+    146
+  ],
+  "Name": "Microcompressor",
+  "Description": "Reduces Heat Generation when firing weapons that Overheat by 30%. Increases Heat Reduction Rate by 30%.",
+  "Location": "Can be found in N'Erud.;Can be crafted at Drzyr Replicator, you will need the following Materials: x10 Forged Iron, 750 Scrap."
+}

@@ -1,0 +1,11 @@
+{
+  "Category": 0,
+  "Tags": [
+    5,
+    6,
+    108
+  ],
+  "Name": "Ring Of Restocking",
+  "Description": "Reloads within 5s of a Critical Hit or Weakspot Kill are 20% faster.",
+  "Location": "Can be found in N'Erud, Random Drop."
+}

@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    7,
+    133
+  ],
+  "Name": "Devoured Loop",
+  "Description": "Critical Hits have 1% chance to reset Skill Cooldowns. Can only occur once every 10s. Increases all incoming damage by 10%.",
+  "Location": "Can be bought from Reggie after completing Campaign on Apocalypse difficulty."
+}

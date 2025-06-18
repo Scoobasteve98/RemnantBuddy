@@ -1,0 +1,11 @@
+{
+  "Category": 0,
+  "Tags": [
+    77,
+    58,
+    66
+  ],
+  "Name": "Siphon Filter",
+  "Description": "Increases All Damage dealt by an amount equal to an active HASTE bonus. Grants HASTE when within 15m of an entity suffering from SLOW.",
+  "Location": "Can be found in the new dungeon \"logistics bridge\".;Too find this Ring, you need to go the following path after unlocking the 3rd and last mini checkpoint. You should be standing over other 2 trains. There should be a hidden decoration pod standing around, shoot it, to unlock a pathway with the ring laying there. Use \"fortune hunter\"from the explorer class too see the location of the ring."
+}

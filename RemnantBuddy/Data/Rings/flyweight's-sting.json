@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    96,
+    150
+  ],
+  "Name": "Flyweight's Sting",
+  "Description": "Increases Melee damage while Armor Encumbrance is below 50. Damage bonus increases with lower Encumbrance, up to 25% at 0 Weight.",
+  "Location": "Can be found in Root Earth - Corrupted Harbor."
+}

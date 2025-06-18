@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    61,
+    24
+  ],
+  "Name": "Closed Loop",
+  "Description": "Gain 5% of Max Health as a SHIELD for 10s after a Charged Shot. Accumulation resets after 10s of inaction. Max 25% SHIELD.",
+  "Location": "Exclusive to The Forgotten Kingdom DLC."
+}

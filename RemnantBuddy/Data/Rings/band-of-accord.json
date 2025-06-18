@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    9,
+    114
+  ],
+  "Name": "Band of Accord",
+  "Description": "Ammo acquired on pickup is increased by 50% per ally also wearing this ring and is shared with other allies.",
+  "Location": "Can be bought from Reggie after doing the High Five emote in co-op."
+}

@@ -1,0 +1,9 @@
+{
+  "Category": 0,
+  "Tags": [
+    77
+  ],
+  "Name": "Impact Augment",
+  "Description": "When a single source of Enemy Damage exceeds 15% of Max Health, increases All Damage dealt by 3% for 10s. Max 5 stacks.",
+  "Location": "A random world drop in N'Erud. (World drops are completely random and can appear anywhere in the world or its dungeons)"
+}

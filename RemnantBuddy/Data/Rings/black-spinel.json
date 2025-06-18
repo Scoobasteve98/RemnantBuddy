@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    53,
+    129
+  ],
+  "Name": "Black Spinel",
+  "Description": "Applying a Negative Status Effect grants 2% Max Health per second for 3s. Applying or refreshing a Negative Status Effect while buff is active will increase the duration by 1.5s. Max 15s.",
+  "Location": "Exclusive to The Forgotten Kingdom DLC."
+}

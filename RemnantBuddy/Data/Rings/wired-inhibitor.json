@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    53,
+    58
+  ],
+  "Name": "Wired Inhibitor",
+  "Description": "Applying a Negative Status Effect on an enemy also applies SLOW for 1s. Applying or  refreshing additional Negative Statuses will increase the duration by 1s. Max 5s.",
+  "Location": "Can be crafted at Spark, you will need the following Materials: x1 House Lythla Glyph, x25 Alien Alloy."
+}

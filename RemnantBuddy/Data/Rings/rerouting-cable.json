@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    61,
+    23
+  ],
+  "Name": "Rerouting Cable",
+  "Description": "Gain 5% of Max Health as a SHIELD for 5s after spending 20 Stamina. Accumulation resets after 5s of inaction. Max 50% SHIELD.",
+  "Location": "Can be found in N'Erud - Vault of the Formless."
+}

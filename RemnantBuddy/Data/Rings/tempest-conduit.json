@@ -1,0 +1,11 @@
+{
+  "Category": 0,
+  "Tags": [
+    77,
+    30,
+    17
+  ],
+  "Name": "Tempest Conduit",
+  "Description": "After receiving Elemental Damage, increases all damage dealt by 15% and Resistance to the received Element by 20 for 15s.",
+  "Location": "Can be found in Yaesha - Endaira's End."
+}

@@ -1,0 +1,12 @@
+{
+  "Category": 0,
+  "Tags": [
+    10,
+    9,
+    129,
+    77
+  ],
+  "Name": "Dran Scavenger Sigil",
+  "Description": "Collecting Scrap, Iron, and Ammo pickups regenerates 50% of Max Health and increases all damage dealt by 8% for 30s.",
+  "Location": "Can be bought from Reggie after defeating any Losomn world boss in Hardcore mode on any difficulty."
+}

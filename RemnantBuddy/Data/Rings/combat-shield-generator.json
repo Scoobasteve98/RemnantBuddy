@@ -1,0 +1,9 @@
+{
+  "Category": 0,
+  "Tags": [
+    85
+  ],
+  "Name": "Combat Shield Generator",
+  "Description": "While in combat, Crouching or Combat Slide generates a stationary 3m x 1.5m Energy Shield with 300 Health which blocks enemy projectiles. Lasts 10s or until broken by damage. Can only happen once every 10s after expiring.",
+  "Location": "Inside Mucid Terrarium there is a large sealed door with a cable to the right of it, shoot the cable with Enigma and the door will open, kill the enemies, find another cable in the room and shoot it with enigma, the door that opens will have this ring inside."
+}

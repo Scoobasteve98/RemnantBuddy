@@ -1,0 +1,11 @@
+{
+  "Category": 0,
+  "Tags": [
+    15,
+    77,
+    4
+  ],
+  "Name": "Offering Stone",
+  "Description": "Dealing Ranged Damage increases all Damage by 1% for 1s. Stacks 15x. After killing an enemy, extends the duration to 10s.",
+  "Location": "Can be found in Losomn as a random drop."
+}

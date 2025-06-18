@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    64,
+    61
+  ],
+  "Name": "Ring of Crisis",
+  "Description": "When wearer's Health drops below 25%, gain a Shield for 25% of Max Health. Lasts 10s.",
+  "Location": "Can be found in N'Erud - The Hatchery."
+}

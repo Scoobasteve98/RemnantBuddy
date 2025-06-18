@@ -1,0 +1,9 @@
+{
+  "Category": 0,
+  "Tags": [
+    53
+  ],
+  "Name": "Red Ring of Death",
+  "Description": "Duplicates the last damaging Negative Status applied to target. Reduces outgoing Status Effect Damage by 10%.",
+  "Location": "Found randomly in Losomn"
+}

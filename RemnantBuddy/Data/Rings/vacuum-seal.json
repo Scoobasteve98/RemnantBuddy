@@ -1,0 +1,11 @@
+{
+  "Category": 0,
+  "Tags": [
+    61,
+    10,
+    9
+  ],
+  "Name": "Vacuum Seal",
+  "Description": "Increases Automatic Pickup Range for Scrap by 150%. Picking up Scrap, Iron, or Ammo grants a SHIELD for 15% of Max Health for l0s Does not stack.",
+  "Location": "Can be found in N'Erud - Tower of the Unseen. Random Drop."
+}

@@ -1,0 +1,11 @@
+{
+  "Category": 0,
+  "Tags": [
+    64,
+    61,
+    62
+  ],
+  "Name": "Disaster Converter",
+  "Description": "When wearer's Health drops below 25%, gain a SHIELD for 50% of total current Grey Health for 10s. Max 50% SHIELD. Does not stack with itself.",
+  "Location": "Can be found at the beginning of The Dark Horizon DLC. It will spawn a while after the cart crash."
+}

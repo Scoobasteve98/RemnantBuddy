@@ -1,0 +1,10 @@
+{
+  "Category": 0,
+  "Tags": [
+    61,
+    113
+  ],
+  "Name": "Shield Alternator",
+  "Description": "Activating a Mod that costs 100 Mod Power or greater, generates a SHIELD for 20% of Max Health. Lasts 15s. Cannot stack with itself",
+  "Location": "Dropped by The Prototype"
+}
