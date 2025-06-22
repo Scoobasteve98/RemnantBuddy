@@ -1,27 +1,19 @@
-using Newtonsoft.Json;
 using RemnantBuddy.Models;
-using System.Collections.ObjectModel;
-using System.Linq;
 
 namespace RemnantBuddy.Views;
 
 public partial class ItemList : ContentPage
 {
     public ItemList()
-	{
-		InitializeComponent();
+    {
+        InitializeComponent();
 
         BindingContext = new RingsList();
-	}
+    }
 
     protected override void OnAppearing()
     {
         ((RingsList)BindingContext).LoadRings();
-    }
-
-    private async void Edit_Clicked(object sender, EventArgs e)
-    {
-        await Shell.Current.GoToAsync(nameof(EditItem));
     }
 
     private async void itemsCollection_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -31,8 +23,7 @@ public partial class ItemList : ContentPage
             // Get the note model
             var ring = (Ring)e.CurrentSelection[0];
 
-            // Should navigate to "NotePage?ItemId=path\on\device\XYZ.notes.txt"
-            await Shell.Current.GoToAsync($"{nameof(EditItem)}?{nameof(EditItem.Name)}={ring.Name.ToLower().Replace(' ', '-')}");
+            await Shell.Current.GoToAsync(nameof(ViewItem), true, new Dictionary<string, object>() { { nameof(ViewItem.Equipment), ring } });
 
             // Unselect the UI
             itemCollection.SelectedItem = null;
