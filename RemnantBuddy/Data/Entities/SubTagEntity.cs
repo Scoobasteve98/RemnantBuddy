@@ -2,7 +2,7 @@
 
 public class SubTagEntity
 {
-    public int SubTagID { get; set; }
+    public int SubTagEntityId { get; set; }
 
     public string Name { get; set; } = string.Empty;
 

@@ -3,11 +3,21 @@ using RemnantBuddy.Mapping;
 using RemnantBuddy.Models;
 
 namespace RemnantBuddy.Data;
-public class RemnantRepository(IDbContextFactory<RemnantDbContext> dbContextFactory)
+public class RemnantRepository
 {
-    private readonly IDbContextFactory<RemnantDbContext> _dbContextFactory = dbContextFactory;
+    private readonly string _directoryPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Data", "Rings");
 
-    public RemnantDbContext CurrentDbContext { get; private set; }
+    private readonly IDbContextFactory<RemnantDbContext> _dbContextFactory;
+
+    private RemnantDbContext _dbContext;
+    public RemnantDbContext CurrentDbContext { get; set; } = null!;
+
+    public RemnantRepository(IDbContextFactory<RemnantDbContext> dbContextFactory)
+    {
+        _dbContextFactory = dbContextFactory;
+        using var dbContext = CreateDbContextAsync().Result;
+        dbContext.Database.EnsureCreated();
+    }
 
     public async Task<RemnantDbContext> CreateDbContextAsync()
     {
@@ -39,7 +49,7 @@ public class RemnantRepository(IDbContextFactory<RemnantDbContext> dbContextFact
         foreach (var tag in tags)
         {
             foreach (var subTag in CurrentDbContext.SubTags
-                .Where(i => i.Tags.Any(j => j.TagID == ((int)tag.TagID))))
+                .Where(i => i.Tags.Any(j => j.TagEntityId == ((int)tag.TagID))))
             {
                 mappedSubTags.Add(tag, subTag.MapToModel());
             }

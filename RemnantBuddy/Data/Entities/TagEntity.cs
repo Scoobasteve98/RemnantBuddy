@@ -2,7 +2,7 @@
 
 public class TagEntity
 {
-    public int TagID { get; set; }
+    public int TagEntityId { get; set; }
 
     public string Name { get; set; } = string.Empty;
 

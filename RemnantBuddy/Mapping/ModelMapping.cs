@@ -8,6 +8,7 @@ public static class ModelMapping
     {
         return new()
         {
+            RingEntityId = entity.RingId,
             Name = entity.Name,
             Description = entity.Description,
             Location = entity.Location,
@@ -20,7 +21,7 @@ public static class ModelMapping
     {
         return new()
         {
-            TagID = (int)entity.TagID,
+            TagEntityId = (int)entity.TagID,
             Name = entity.Name,
             SubTags = [.. entity.SubTags.Select(MapToEntity)],
         };
@@ -30,7 +31,7 @@ public static class ModelMapping
     {
         return new()
         {
-            SubTagID = (int)entity.SubTagID,
+            SubTagEntityId = (int)entity.SubTagID,
             Name = entity.Name,
             Tags = [.. entity.Tags.Select(MapToEntity)]
         };
