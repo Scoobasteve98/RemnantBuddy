@@ -203,10 +203,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Builder\RemnantBuddyBackend.csproj" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <MauiXaml Update="Views\EditItem.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
