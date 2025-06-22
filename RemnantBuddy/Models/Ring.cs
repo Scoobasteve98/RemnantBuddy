@@ -1,8 +1,4 @@
-﻿using Newtonsoft.Json;
+﻿namespace RemnantBuddy.Models;
 
-namespace RemnantBuddy.Models
-{
-    public class Ring : BaseEquipment
-    {
-    }
-}
+public class Ring : BaseEquipment
+{ }

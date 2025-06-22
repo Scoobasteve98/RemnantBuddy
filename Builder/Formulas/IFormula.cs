@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RemnantBuddyBackend.Formulas
+namespace RemnantBuddyBackend.Formulas;
+
+internal interface IFormula
 {
-    internal interface IFormula
-    {
-        public decimal Calculate();
-    }
+    public decimal Calculate();
 }

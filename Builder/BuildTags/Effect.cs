@@ -4,18 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RemnantBuddyBackend.BuildTags
+namespace RemnantBuddyBackend.BuildTags;
+
+public enum Effect
 {
-    public enum Effect
-    {
-        Melee,
-        ChargedMelee,
-        Ranged,
-        Weakspot,
-        Skill,
-        Mod,
-        LowEnemyHealth,
-        AOE,
-        Aura,
-    }
+    Melee,
+    ChargedMelee,
+    Ranged,
+    Weakspot,
+    Skill,
+    Mod,
+    LowEnemyHealth,
+    AOE,
+    Aura,
 }

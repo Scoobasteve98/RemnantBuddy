@@ -4,16 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RemnantBuddyBackend.BuildTags
+namespace RemnantBuddyBackend.BuildTags;
+
+public enum Category
 {
-    public enum Category
-    {
-        Damage,
-        Crit,
-        DamageReduction,
-        Resistance,
-        Healing,
-        Utility,
-        Control
-    }
+    Damage,
+    Crit,
+    DamageReduction,
+    Resistance,
+    Healing,
+    Utility,
+    Control
 }

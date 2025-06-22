@@ -5,12 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RemnantBuddyBackend.Equipment.Rings
+namespace RemnantBuddyBackend.Equipment.Rings;
+
+internal class WiredInhibitor
 {
-    internal class WiredInhibitor
-    {
-        public List<Tag> Tags { get; } = new() { Tag.Slow, Tag.NegativeStatusEffect };
+    public List<Tag> Tags { get; } = new() { Tag.Slow, Tag.NegativeStatusEffect };
 
 
-    }
 }
