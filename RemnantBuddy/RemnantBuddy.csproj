@@ -57,149 +57,11 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <None Remove="Data\Rings\A%27taerii Booster" />
-	  <None Remove="Data\Rings\Atonement Fold" />
-	  <None Remove="Data\Rings\Band of the Fanatic" />
-	  <None Remove="Data\Rings\Bitter Memento" />
-	  <None Remove="Data\Rings\Black Spinel" />
-	  <None Remove="Data\Rings\Bloodless King%27s Vow" />
-	  <None Remove="Data\Rings\Bridge Wardens Crest" />
-	  <None Remove="Data\Rings\Burden of the Departed" />
-	  <None Remove="Data\Rings\Burden of the Mason" />
-	  <None Remove="Data\Rings\Burden of the Mesmer" />
-	  <None Remove="Data\Rings\Burden of the Sciolist" />
-	  <None Remove="Data\Rings\Closed Loop" />
-	  <None Remove="Data\Rings\Conjurer%27s Circle" />
-	  <None Remove="Data\Rings\Crimson Dreamstone" />
-	  <None Remove="Data\Rings\Dark Sea Armada Crest" />
-	  <None Remove="Data\Rings\Digested Hog Lure" />
-	  <None Remove="Data\Rings\Dried Clay Ring" />
-	  <None Remove="Data\Rings\Elevated Ring" />
-	  <None Remove="Data\Rings\Fae Shaman Ring" />
-	  <None Remove="Data\Rings\Fae Warrior Ring" />
-	  <None Remove="Data\Rings\Faelin%27s Sigil" />
-	  <None Remove="Data\Rings\Faerin%27s Sigil" />
-	  <None Remove="Data\Rings\Feastmaster%27s Signet" />
-	  <None Remove="Data\Rings\Feathery Binding" />
-	  <None Remove="Data\Rings\Feedback Loop" />
-	  <None Remove="Data\Rings\Fire Stone" />
-	  <None Remove="Data\Rings\Floodlit Diamond" />
-	  <None Remove="Data\Rings\Flyweight%27s Sting" />
-	  <None Remove="Data\Rings\Focusing Shard" />
-	  <None Remove="Data\Rings\Frivolous Band" />
-	  <None Remove="Data\Rings\Galvanized Resupply Band" />
-	  <None Remove="Data\Rings\Game Master%27s Pride" />
-	  <None Remove="Data\Rings\Generating Band" />
-	  <None Remove="Data\Rings\Grounding Stone" />
-	  <None Remove="Data\Rings\Guardian%27s Ring" />
-	  <None Remove="Data\Rings\Gul Signet" />
-	  <None Remove="Data\Rings\Gunslinger%27s Ring" />
-	  <None Remove="Data\Rings\Hardcore Metal Band" />
-	  <None Remove="Data\Rings\Hardened Coil" />
-	  <None Remove="Data\Rings\Haymaker%27s Ring" />
-	  <None Remove="Data\Rings\Heart of the Wolf" />
-	  <None Remove="Data\Rings\Hex Ward" />
-	  <None Remove="Data\Rings\Jewel of the Beholden" />
-	  <None Remove="Data\Rings\Kinetic Cycle Stone" />
-	  <None Remove="Data\Rings\Kolket Eyelet" />
-	  <None Remove="Data\Rings\Leaking Gemstone" />
-	  <None Remove="Data\Rings\Lighthouse Keeper%27s Ring" />
-	  <None Remove="Data\Rings\Lithic Signet" />
-	  <None Remove="Data\Rings\Lodestone Ring" />
-	  <None Remove="Data\Rings\Low Yield Recovery Ring" />
-	  <None Remove="Data\Rings\Mark of the Destroyer" />
-	  <None Remove="Data\Rings\Matriarch%27s Ring" />
-	  <None Remove="Data\Rings\Mechanic%27s Cog" />
-	  <None Remove="Data\Rings\Metal Driver" />
-	  <None Remove="Data\Rings\Meteorite Shard Ring" />
-	  <None Remove="Data\Rings\Microcompressor" />
-	  <None Remove="Data\Rings\Momentum Driver" />
-	  <None Remove="Data\Rings\Offering Stone" />
-	  <None Remove="Data\Rings\Outcast Ring" />
-	  <None Remove="Data\Rings\Painless Obsidian" />
-	  <None Remove="Data\Rings\Pan War Band" />
-	  <None Remove="Data\Rings\Point Focus Ring" />
-	  <None Remove="Data\Rings\Power Complex" />
-	  <None Remove="Data\Rings\Power Saver" />
-	  <None Remove="Data\Rings\Probability Cord" />
-	  <None Remove="Data\Rings\Propulsion Loop" />
-	  <None Remove="Data\Rings\Provisioner Ring" />
-	  <None Remove="Data\Rings\Rally Band" />
-	  <None Remove="Data\Rings\Ravager%27s Bargain" />
-	  <None Remove="Data\Rings\Reaping Stone" />
-	  <None Remove="Data\Rings\Red Ring of Death" />
-	  <None Remove="Data\Rings\Rerouting Cable" />
-	  <None Remove="Data\Rings\Reserve Boosting Gem" />
-	  <None Remove="Data\Rings\Restriction Cord" />
-	  <None Remove="Data\Rings\Ring of Crisis" />
-	  <None Remove="Data\Rings\Ring Of Deflection" />
-	  <None Remove="Data\Rings\Ring of Diversion" />
-	  <None Remove="Data\Rings\Ring of Flawed Beauty" />
-	  <None Remove="Data\Rings\Ring of Grace" />
-	  <None Remove="Data\Rings\Ring of Infinite Damage" />
-	  <None Remove="Data\Rings\Ring of Omens" />
-	  <None Remove="Data\Rings\Ring of Ordnance" />
-	  <None Remove="Data\Rings\Ring Of Restocking" />
-	  <None Remove="Data\Rings\Ring Of Retribution" />
-	  <None Remove="Data\Rings\Ring of Spirits" />
-	  <None Remove="Data\Rings\Ring of the Castaway" />
-	  <None Remove="Data\Rings\Ring of the Damned" />
-	  <None Remove="Data\Rings\Ring of the Forest Spirit" />
-	  <None Remove="Data\Rings\Ring of the Robust" />
-	  <None Remove="Data\Rings\Ring of the Vain" />
-	  <None Remove="Data\Rings\Rock of Anguish" />
-	  <None Remove="Data\Rings\Rotward" />
-	  <None Remove="Data\Rings\Rusted Heirloom" />
-	  <None Remove="Data\Rings\Sagestone" />
-	  <None Remove="Data\Rings\Sapphire Dreamstone" />
-	  <None Remove="Data\Rings\Seal of the Empress" />
-	  <None Remove="Data\Rings\Sealed Resin Loop" />
-	  <None Remove="Data\Rings\Shadow of Misery" />
-	  <None Remove="Data\Rings\Shaed Stone" />
-	  <None Remove="Data\Rings\Shard Banded Ring" />
-	  <None Remove="Data\Rings\Shiny Hog Lure" />
-	  <None Remove="Data\Rings\Singed Ring" />
-	  <None Remove="Data\Rings\Slayer%27s Crest" />
-	  <None Remove="Data\Rings\Soul Feast" />
-	  <None Remove="Data\Rings\Soul Guard" />
-	  <None Remove="Data\Rings\Soul Link" />
-	  <None Remove="Data\Rings\Soul Shard" />
-	  <None Remove="Data\Rings\Spirit Stone" />
-	  <None Remove="Data\Rings\Stockpile Charger" />
-	  <None Remove="Data\Rings\Stone of Balance" />
-	  <None Remove="Data\Rings\Stone of Continuance" />
-	  <None Remove="Data\Rings\Stone of Expanse" />
-	  <None Remove="Data\Rings\Stone Of Malevolence" />
-	  <None Remove="Data\Rings\Stream Coupler" />
-	  <None Remove="Data\Rings\Subterfuge Link" />
-	  <None Remove="Data\Rings\Suppression Ward" />
-	  <None Remove="Data\Rings\Targeting Jewel" />
-	  <None Remove="Data\Rings\Tarnished Ring" />
-	  <None Remove="Data\Rings\Tear of Kaeula" />
-	  <None Remove="Data\Rings\Tear of Lydusa" />
-	  <None Remove="Data\Rings\Tempest Conduit" />
-	  <None Remove="Data\Rings\Thalos Eyelet" />
-	  <None Remove="Data\Rings\Tightly Wound Coil" />
-	  <None Remove="Data\Rings\Timekeeper%27s Jewel" />
-	  <None Remove="Data\Rings\Token of Favor" />
-	  <None Remove="Data\Rings\Tomb Dweller%27s Ring" />
-	  <None Remove="Data\Rings\Vacuum Seal" />
-	  <None Remove="Data\Rings\Vestige of Power" />
-	  <None Remove="Data\Rings\Wax Sealed Ring" />
-	  <None Remove="Data\Rings\White Glass Bead" />
-	  <None Remove="Data\Rings\White Pawn Stamp" />
-	  <None Remove="Data\Rings\Wind Hollow Circlet" />
-	  <None Remove="Data\Rings\Wood Ring" />
-	  <None Remove="Data\Rings\Worn Admiral%27s Ring" />
-	  <None Remove="Data\Rings\Zania%27s Malice" />
-	  <None Remove="Data\Rings\Zohee%27s Ring" />
-	</ItemGroup>
-
-	<ItemGroup>
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.6" />
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -216,9 +78,4 @@
 	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 	  </None>
 	</ItemGroup>
-
-	<ItemGroup>
-	  <Folder Include="DTO\" />
-	</ItemGroup>
-
 </Project>

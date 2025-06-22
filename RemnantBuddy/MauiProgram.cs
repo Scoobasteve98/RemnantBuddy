@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.Extensions.Logging;
 using RemnantBuddy.Data;
 
 namespace RemnantBuddy;
@@ -17,7 +16,7 @@ public static class MauiProgram
                 fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
             });
 
-        builder.Services.AddSingleton<IDbContextFactory<RemnantDbContext>>();
+        builder.Services.AddDbContext<RemnantDbContext>();
 #if DEBUG
         builder.Logging.AddDebug();
 #endif
