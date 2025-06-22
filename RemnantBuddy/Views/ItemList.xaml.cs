@@ -4,16 +4,11 @@ namespace RemnantBuddy.Views;
 
 public partial class ItemList : ContentPage
 {
-    public ItemList()
+    public ItemList(RingsList ringList)
     {
         InitializeComponent();
 
-        BindingContext = new RingsList();
-    }
-
-    protected override void OnAppearing()
-    {
-        ((RingsList)BindingContext).LoadRings();
+        BindingContext = ringList;
     }
 
     private async void itemsCollection_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -21,9 +16,9 @@ public partial class ItemList : ContentPage
         if (e.CurrentSelection.Count != 0)
         {
             // Get the note model
-            var ring = (Ring)e.CurrentSelection[0];
+            var equipment = (BaseEquipment)e.CurrentSelection[0];
 
-            await Shell.Current.GoToAsync(nameof(ViewItem), true, new Dictionary<string, object>() { { nameof(ViewItem.Equipment), ring } });
+            await Shell.Current.GoToAsync(nameof(ViewItem), true, new Dictionary<string, object>() { { nameof(ViewItem.Equipment), equipment } });
 
             // Unselect the UI
             itemCollection.SelectedItem = null;
